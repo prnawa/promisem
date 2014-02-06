@@ -1,0 +1,24 @@
+{
+  "name": "promisem",
+  "version": "0.1.0",
+  "description": "minimal Promises/A+ implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prnawa/promisem.git"
+  },
+  "keywords": [
+    "promise",
+    "Promises/A+",
+    "async"
+  ],
+  "author": "Ruwan Nawarathne",
+  "license": "BSD 2-Clause",
+  "bugs": {
+    "url": "https://github.com/prnawa/promisem/issues"
+  },
+  "homepage": "https://github.com/prnawa/promisem"
+}
