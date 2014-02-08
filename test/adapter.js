@@ -6,7 +6,7 @@ module.exports.deferred = function () {
 
     return {
         promise: promise,
-        resolve: promise.fulfill,
+        resolve: promise.resolve,
         reject: promise.reject
     };
 };
