@@ -64,7 +64,7 @@ Then run the tests:
 
     $ npm test
 
-## Contributor
+## Contributors
 
   https://github.com/prnawa/promisem/graphs/contributors
 
