@@ -6,7 +6,7 @@ minimalist Promises/A+ library for [node](http://nodejs.org).
 
 ## Installation
 
-    $ npm install git+https://github.com/promises-aplus/promises-tests.git
+    $ npm install git+https://github.com/prnawa/promisem.git
 
 ## Quick Start
 
