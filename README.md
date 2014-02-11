@@ -43,7 +43,7 @@ sayHello().then(
 
 GUI developers are familiar with the phrase "don't block the UI thread." In JavaScript, everything executes in a single thread. If you block that thread, your application grinds to a halt. Animations freeze, keystrokes and clicks are ignored, it’s unlikely you’ll even be able to scroll. Promises are a popular approach to dealing with the wait for long-running tasks to complete.
 
-A promise represents a value. That value may or may not be available when you receive a promise. Instead of directly asking a promise what its value is, or even asking if the value is available yet, you can ask to be notified once the value becomes available. The act of a promise obtaining its value is known as fulfillment. Once a promise is fulfilled, the promise's value never changes; it always represents that value.
+A promise represents a value. That value may or may not be available when you receive a promise. Instead of directly asking a promise what its value is, or even asking if the value is available yet, you can ask to be notified once the value becomes available. The act of a promise obtaining its value is known as fulfillment. Once a promise is fulfilled, the promise's value never changes; it always represents that value [1](http://know.cujojs.com/tutorials/promises/consuming-promises).
 
 
 
